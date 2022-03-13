@@ -15,12 +15,11 @@ This is an E-Commerce web application built in Node.js using Sequelize for the d
 ## [Installation](#table-of-contents)
 Clone the repository, run npm install to install all of the dependencies and modules, configure your environment variables and database (MySQL, MariaDB), and then run node server.js. 
 ## [Usage](#table-of-contents)
-You can use this web application to launch and manage an online store.
-  
+You can use this web application to launch and manage an online store.  
 
-    ## [License](#table-of-contents)
-    This project is covered under the following license:
-    [Unlicense](https://choosealicense.com/licenses/Unlicense)
+## [License](#table-of-contents)
+This project is covered under the following license:
+[Unlicense](https://choosealicense.com/licenses/Unlicense)
       
 ## [Contributing](#table-of-contents)
 Clone the repository, make any modifications you like, and submit a pull request.
